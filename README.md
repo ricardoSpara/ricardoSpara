@@ -1,7 +1,7 @@
 ### Ricardo Sparapan :alien:👋
 
 
-- 🔭 I currently work as a full stack developer at NeoAssist, we operate on a service platform and our goal is to change the status of service in Brazil and worldwide. 
+- 🔭 I currently work as a backend developer at Pontaltech. 
 
 - 🌱 I’m currently learning more about Kafka and microservice architecture.
 
