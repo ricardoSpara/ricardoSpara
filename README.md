@@ -1,7 +1,7 @@
 ### Ricardo Sparapan :alien:👋
 
 
-- 🔭 I currently work as a backend developer at Pontaltech. 
+- 🔭 I currently work as a backend developer at PicPay. 
 
 - 🌱 I’m currently learning more about Kafka and microservice architecture.
 
